@@ -1,7 +1,7 @@
 # TODOLIST
-## A web-page where you can make and keep your To Do List
+## A web-page where you can manage your To Do List
 ![gif](https://github.com/AizhanSmekenova/TODOLIST/blob/main/todolist.gif)
-You can manage your To Do List (localstorage).
+
 
 In this project I mastered:
 
