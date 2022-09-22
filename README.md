@@ -9,6 +9,7 @@ In this project I mastered:
 * react state management
 * UI
 * communication with server
+* JSON
 * styled-components
 * unit testing
 * jest
