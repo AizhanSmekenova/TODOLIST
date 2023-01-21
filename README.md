@@ -1,5 +1,4 @@
 # TODOLIST
-## A web-page where you can manage your To Do List
 ![gif](https://github.com/AizhanSmekenova/TODOLIST/blob/main/todolist.gif)
 
 
